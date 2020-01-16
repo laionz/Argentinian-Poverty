@@ -1,5 +1,5 @@
 # Argentinian-Poverty
-Non Income Poverty Classification using the Argentinian Housing Survey and Machine Learning
+Non Income Poverty Classification using the Argentina Householder Survey and Machine Learning
 
 
 ### indiv.csv => Dataset 
